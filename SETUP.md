@@ -5,8 +5,8 @@ Para a ESP32 baixar firmware remotamente por HTTPS, este repositório precisa es
 Checklist:
 
 1. Tornar o repo `feerlucas/ESPTRADE-OTA` público.
-2. Publicar o binário `KrakenTrendBotV2-2.2.0.bin` em uma release `v2.2.0`.
-3. Manter os manifests em `ota/manifest/` apontando para a URL correta do asset.
+2. Publicar o binário `KrakenTrendBotV2-2.2.0.bin` em `ota/firmware/`.
+3. Manter os manifests em `ota/manifest/` apontando para a URL crua correta do arquivo.
 4. Na placa, usar `/checkupdate`, `/version` e `/update` no Telegram.
 
 Observação:
