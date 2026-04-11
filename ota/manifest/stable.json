@@ -1,9 +1,9 @@
 {
   "channel": "stable",
-  "version": "2.2.0",
-  "url": "https://raw.githubusercontent.com/feerlucas/ESPTRADE-OTA/main/ota/firmware/KrakenTrendBotV2-2.2.0.bin",
-  "md5": "0e3976b362e4b12caa7412ede53da456",
-  "sha256": "0c607516dec14c1d9682ce32447ee57c6296d3b833502133a72660856b4f6d84",
-  "size": 1304160,
-  "notes": "Release 2.2.0"
+  "version": "2.2.1",
+  "url": "https://raw.githubusercontent.com/feerlucas/ESPTRADE-OTA/main/ota/firmware/KrakenTrendBotV2-2.2.1.bin",
+  "md5": "f393e2bed92a15c7aff85cbf26396b84",
+  "sha256": "ff123ad4be14b17299b2518c994cc0fd7f14a89050e36831e0a7d472265f6414",
+  "size": 1304048,
+  "notes": "Release 2.2.1"
 }
