@@ -1,0 +1,9 @@
+{
+  "channel": "beta",
+  "version": "2.2.0-beta1",
+  "url": "https://github.com/feerlucas/ESPTRADE-OTA/releases/download/v2.2.0-beta1/KrakenTrendBotV2-2.2.0-beta1.bin",
+  "md5": "REPLACE_MD5",
+  "sha256": "REPLACE_SHA256",
+  "size": 0,
+  "notes": "Canal beta para validar OTA antes de promover para stable"
+}
